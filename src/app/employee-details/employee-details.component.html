@@ -1,0 +1,21 @@
+<div class="container">
+    @if (employee$ | async) {
+      <div class="card employee-card animate-fade-in">
+        <img [src]="(employee$ | async)?.imageUrl" class="employee-img" alt="Employee Image">
+        <div class="card-body">
+          <h2 class="employee-name"><strong>Name: </strong>{{ (employee$ | async)?.name || "Loading..."}}</h2>
+          <p class="employee-role"><strong>Role: </strong>{{ (employee$ | async)?.role || "Loading..."}}</p>
+          <p class="employee-department"><strong>Department:</strong> {{ (employee$ | async)?.department || 'Loading...' }}</p>
+          <p class="employee-email"><strong>Email:</strong> {{ (employee$ | async)?.email || 'Loading...' }}</p>
+          <p class="employee-phone"><strong>Phone:</strong> {{ (employee$ | async)?.phno || 'Loading...' }}</p>
+        </div>
+        <button class="btn btn-secondary back-btn" (click)="goBack()">Back</button>
+      </div>
+    } @else {
+      <div class="spinner-container">
+        <div class="spinner"></div>
+        <h3 class="loading-text">Fetching Employee Details...</h3>
+      </div>
+    }
+  </div>
+  

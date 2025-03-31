@@ -1,0 +1,84 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "name": "Iliaz",
+        "role": "Project Manager",
+        "department": "Management",
+        "achievements": "Successfully led 5 projects",
+        "email": "iliaz@example.com",
+        "phno": "9723319196",
+        "imageUrl": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/short/ai_face_generator/ai_face_generator/webp/thumb_image/004.webp"
+      },
+      {
+        "id": "2",
+        "name": "Jhon",
+        "role": "Backend Developer",
+        "department": "Development",
+        "achievements": "Optimized API performance",
+        "email": "jhon@example.com",
+        "phno": "8734683487",
+        "imageUrl": "https://d2v5dzhdg4zhx3.cloudfront.net/web-assets/images/storypages/short/ai_face_generator/ai_face_generator/webp/thumb_image/002.webp"
+      },
+      {
+        "id": "3",
+        "name": " Roy",
+        "role": "Frontend Developer",
+        "department": "Development",
+        "achievements": "Created a new UI component library",
+        "email": "Roy@example.com",
+        "phno": "7842469269",
+        "imageUrl": "https://mymodernmet.com/wp/wp-content/uploads/2019/09/100k-ai-faces-6.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Kartheek",
+        "role": "Data Scientist",
+        "department": "AI & Data",
+        "achievements": "Developed a predictive model",
+        "email": "Kartheek@example.com",
+        "phno": "8475264278",
+        "imageUrl": "https://images.generated.photos/tGHubInlYQSUapLmz6IdvNuew4iOgEMbgEtV0u_WB2s/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NTkzNTE4LmpwZw.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Charan",
+        "role": "HR Manager",
+        "department": "Human Resources",
+        "achievements": "Hired 50+ top talents",
+        "email": "Charan@example.com",
+        "phno": "8475264278",
+        "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/036/442/721/small_2x/ai-generated-portrait-of-a-young-man-no-facial-expression-facing-the-camera-isolated-white-background-ai-generative-photo.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Ram",
+        "role": "Cyber Security Analyst",
+        "department": "Security",
+        "achievements": "Prevented 5 major security breaches",
+        "email": "Ram@example.com",
+        "phno": "8287246732",
+        "imageUrl": "https://www.piclumen.com/wp-content/uploads/2024/11/ai-face-generator-european-man.webp"
+      },
+      {
+        "id": "7",
+        "name": " Maniram",
+        "role": "Business Analyst",
+        "department": "Business Intelligence",
+        "achievements": "Improved business processes by 20%",
+        "email": "maniram@example.com",
+        "phno": "8475264278",
+        "imageUrl": "https://mymodernmet.com/wp/wp-content/uploads/2019/09/100k-ai-faces-3.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Eswar",
+        "role": "Developer",
+        "department": "Technical",
+        "achievements": "Technical Experience of 20 years",
+        "email": "eswar@gmail.com",
+        "phno": "9876354533",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5M-NQYzES8bKZGJnlf2Y0tIKJ9uRsjhHbw&s"
+      }
+    ]
+  }
